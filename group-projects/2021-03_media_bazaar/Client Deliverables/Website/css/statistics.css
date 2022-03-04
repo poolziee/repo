@@ -1,0 +1,96 @@
+/*SELECT VALUES*/
+.select-group {
+  float: left;
+  margin-left: 8.33%;
+  margin-bottom: 8.33%;
+}
+
+.statistics-select {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  outline: none;
+  color: #2b2d42;
+  letter-spacing: 1px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  transition: all 0.1s ease-in-out;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+
+  padding: 11px 15px;
+  position: relative;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  display: block;
+  overflow: hidden;
+  position: relative;
+  margin: 0;
+}
+
+.simple-form .select-group .select-arrow-label {
+  display: block;
+  overflow: hidden;
+  position: relative;
+  margin: 0;
+}
+
+.simple-form .select-group .select-arrow-label::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZS13aWR0aD0iMCIgZmlsbD0iIzY2NiIgdmlld0JveD0iMCAwIDEyIDciPjxwYXRoIGQ9Ik0xMS44OTMuNTU5TDExLjMzNiAwIDUuOTQ3IDUuMzkuNTU5IDAgMCAuNTU5bDUuOTQ3IDUuOTQ0eiIvPjwvc3ZnPg==);
+  background-size: contain;
+  background-repeat: no-repeat;
+  top: 50%;
+  right: 12px;
+  width: 15px;
+  height: 8px;
+}
+
+/*BUTTON*/
+
+.query-button input[type="submit"] {
+  width: 200px;
+  color: #fff;
+  background-color: #8d99ae;
+  border: none;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  cursor: pointer;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 15px;
+  transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  display: table;
+  margin: 0 auto;
+}
+
+.query-button input[type="submit"]:hover {
+  background-color: #7e899c;
+}
+.query-button.all-charts {
+  margin-bottom: 4%;
+}
+h3 {
+  text-align: center;
+}
+
+/*CHARTS*/
+.chart-container {
+  padding: 4%;
+  margin: auto;
+}

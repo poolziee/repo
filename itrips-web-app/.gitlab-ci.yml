@@ -1,0 +1,33 @@
+image: gradle:jdk11
+stages:
+  - build
+  - test
+  - sonarqube
+
+before_script:
+  - set GRADLE_USER_HOME=`pwd`/backend/iTrips/.gradle
+
+build:
+  stage: build
+  script:
+    - cd ./backend/iTrips
+    - ./gradlew build
+    - ./gradlew.bat --stop
+
+test:
+  stage: test
+  script:
+    - cd ./backend/iTrips
+    - ./gradlew test
+    - ./gradlew.bat --stop
+
+sonarqube:
+  stage: sonarqube
+  script:
+    - cd ./backend/iTrips
+    - ./gradlew sonarqube
+    - ./gradlew.bat --stop
+
+  allow_failure: false
+  only:
+    - master

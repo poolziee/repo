@@ -1,0 +1,587 @@
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ThisIsTheProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\alexb\Desktop\MediaBazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\ProjectThis\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\Ionut Popa\Desktop\new proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ExplainDenial.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ExplainDenial.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.WRHSHome.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ExplainDenial.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.WRHSHome.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ItemSpecifications.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddItem.resources
+C:\Users\Matei Mitran\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditItem.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddItem.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditItem.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.RequestsOverview.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.RequestsOverview.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddItem.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditItem.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ExplainDenial.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.WRHSHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.RequestsOverview.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddItem.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditItem.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ExplainDenial.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.WRHSHome.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\Aleksej\Desktop\Projects\MediaBazar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.StockerHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Media Bazaar\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.CashierHome.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.CashierHome.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.StockerHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.RequestsOverview.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddItem.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditItem.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ExplainDenial.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.WRHSHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.CashierHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.StockerHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csprojAssemblyReference.cache
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.RequestsOverview.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddItem.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditItem.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ExplainDenial.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.WRHSHome.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.CashierHome.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.StockerHome.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MaterialSkin.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MaterialSkin.dll
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Presentation.WareHouseManager.EditRestock.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Presentation.WareHouseManager.EditRestock.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MaterialSkin.dll
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Presentation.WareHouseManager.EditRestock.resources
+D:\SEMESTER 2\PRJ\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Presentation.StartupForm.resources
+C:\Users\Ionut Popa\Desktop\proj\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Presentation.StartupForm.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\Project\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Presentation.StartupForm.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe.config
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.exe
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\PRJMediaBazaar.pdb
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MaterialSkin.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Zstandard.Net.dll
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.pdb
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Buffers.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Memory.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.RequestsOverview.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Presentation.StartupForm.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddItem.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditItem.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.EditNote.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.AddEmployees.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ChangeNeededPosition.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ExplainDenial.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.HRHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.LogIn.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Presentation.WareHouseManager.EditRestock.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.WRHSHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.Properties.Resources.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.ShiftAssigning.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.CashierHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.StockerHome.resources
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.GenerateResource.cache
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.CopyComplete
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.exe
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.pdb
+C:\Users\matei\Desktop\Fontys\Semester 2\Project\ThisIsProject\prj-cb05-group-5-project\PRJMediaBazaar\PRJMediaBazaar\obj\Debug\PRJMediaBazaar.csproj.AssemblyReference.cache

@@ -1,0 +1,264 @@
+/* WELCOME MESSAGE CSS */
+
+#welcome-message {
+    margin: 15px 60px 0;
+    font-size: 14px;
+}
+
+#welcome-message span {
+    font-weight: 600;
+    font-size: 16px;
+    margin-left: 2px;
+}
+
+/* DASHBOARD CSS */
+
+#dashboard-wrapper {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto 50px;
+    text-align: center;
+}
+
+#dashboard-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+    box-shadow: 0px 0px 42px -33px rgba(0,0,0,0.75);
+        -webkit-box-shadow: 0px 0px 42px -33px rgba(0,0,0,0.75);
+        -moz-box-shadow: 0px 0px 42px -33px rgba(0,0,0,0.75);
+    overflow-y: scroll;
+    text-align: left;
+}
+
+.dashboard-content {
+    display: none;
+}
+
+.dashboard-content.visible {
+    display: block;
+}
+
+.dashboard-content form h3 {
+    font-weight: 600;
+    color: #2b2d42;
+    font-size: 24px;
+    margin: 0 0 15px;
+}
+
+.dashboard-button:link {
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: #fff;
+    transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+    min-width: 150px;
+}
+
+.dashboard-button:visited {
+    color: #fff;
+}
+
+#dashboard-button-announcements {
+    background-color: #759675;
+}
+
+#dashboard-button-announcements:hover {
+    background-color: #698769;
+}
+
+#dashboard-button-schedule {
+    background-color: #8d99ae;
+}
+
+#dashboard-button-schedule:hover {
+    background-color: #7e899c;
+}
+
+#dashboard-button-preferences {
+    background-color: #555667;
+}
+
+#dashboard-button-preferences:hover {
+    background-color: #444452;
+}
+
+#dashboard-button-absence {
+    background-color: #f14b5f;
+}
+
+#dashboard-button-absence:hover {
+    background-color: #d84355;
+}
+
+/* ANNOUNCEMENTS CSS */
+
+#dashboard-announcements {
+    height: 265px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+#dashboard-announcements ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+#dashboard-announcements ul li{
+    position: relative;
+    padding: 15px 20px;
+    border-bottom: 1px solid #eee;
+}
+
+#dashboard-announcements ul li i {
+    position: absolute;
+    font-size: 18px;
+    right: 20px;
+    top: 50%;
+    margin-top: -9px;
+    cursor: pointer;
+}
+
+/* SCHEDULE CSS */
+
+#dashboard-schedule table {
+    width: 100%;
+}
+
+#dashboard-schedule table, #dashboard-schedule th, #dashboard-schedule td {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
+#dashboard-schedule table th {
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+    background-color: #2b2d42;
+}
+
+#dashboard-schedule table tr td {
+    text-align: center;
+}
+
+#dashboard-schedule table tr td .schedule-cell-date {
+    display: block;
+    color: #8d99ae;
+    margin-bottom: 10px;
+}
+
+#dashboard-schedule table tr td .schedule-cell-shift {
+    display: block;
+}
+
+/* PREFERENCES CSS */
+
+#dashboard-preferences form {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#dashboard-preferences #preferences-wrapper {
+    display: -webkit-box; 
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-around;
+    -webkit-justify-content: space-around;
+    -moz-justify-content: space-around;
+    justify-content: space-around;
+}
+
+#dashboard-preferences #preferences-wrapper p {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#dashboard-preferences #preferences-wrapper form {
+    position: relative;
+    margin: 20px 0 30px;
+}
+
+#dashboard-preferences #preferences-wrapper form h3 {
+    text-align: center;
+}
+
+#dashboard-preferences #preferences-wrapper form input[type="submit"] {
+    width: auto;
+    min-width: 50%;
+    font-size: 16px;
+}
+
+#dashboard-preferences #preferences-wrapper #general-form .form-group.submit {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+/* ABSENCE-OFF CSS */
+
+#dashboard-absence #absence-wrapper {
+    display: -webkit-box; 
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-around;
+    -webkit-justify-content: space-around;
+    -moz-justify-content: space-around;
+    justify-content: space-around;
+}
+
+#dashboard-absence #absence-wrapper p {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#dashboard-absence #absence-wrapper form {
+    position: relative;
+    margin: 20px 0 30px;
+}
+
+#dashboard-absence #absence-wrapper form h3 {
+    text-align: center;
+}
+
+#dashboard-absence #absence-wrapper form input[type="checkbox"] {
+    width: auto;
+    margin-top: 10px;
+}
+
+#dashboard-absence #absence-wrapper form input[type="submit"] {
+    width: auto;
+    min-width: 50%;
+    font-size: 16px;
+}
+
+#dashboard-absence #absence-wrapper #day-off-form .form-group {
+    max-width: 390px;
+}
+
+#dashboard-absence #absence-wrapper #sick-report-form .form-group.submit {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
