@@ -8,7 +8,7 @@ The application serves 1 main user types:
 - Hotel Manager
 
 At the end, I have to deploy a complete system for each of the above mentioned roles.
-My task is to develop a scalable Spring back-end RESTful API service with Angular front-end client.
+My task is to develop a scalable Spring back-end RESTful API service with React front-end client.
 The initial goal of this projecct is to show how well I can implement a variety of new methods and technologies, such as:
 
 - Docker to manage my database, client, server and version control
